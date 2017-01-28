@@ -1,0 +1,14 @@
+{
+  "name": "ipdroid",
+  "version": "1.0.0",
+  "description": "The robot that is smarter in every ways",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashesh Silwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
